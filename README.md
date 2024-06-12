@@ -1,16 +1,15 @@
-## Hi there 👋
+## boas vindas ao meu perfil 💸
 
-<!--
-**DHZINHO1/DHZINHO1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e diogo
 
-Here are some ideas to get you started:
+- estouestudando [alura](https://www.alura.com.br)
+- estou me desenvolvendo na linguagem javascript🤖
+- utilizo esse espaco para minha organizacao e compartlhamento do meu projeto desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### voce entra em contato comigo 📬
+
+  00001074485944sp@al.educacao.sp.gov.br
+
+  @dhzin_888
+
+![](https://media1.tenor.com/m/YtT57hRX-O4AAAAC/dedo-do-meio-estressada.gif)
